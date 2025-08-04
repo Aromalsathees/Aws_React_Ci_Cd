@@ -27,7 +27,7 @@ const styles = {
     fontFamily: 'Arial',
   },
   button: {
-    padding: '10px 20px',
+    padding: '11px 20px',
     fontSize: '16px',
     cursor: 'pointer',
   }
