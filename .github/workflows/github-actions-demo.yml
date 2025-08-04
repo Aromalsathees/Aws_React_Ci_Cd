@@ -27,3 +27,6 @@ jobs:
 
     - name: ✅ Upload build (optional)
       uses: actions/upload-artifact@v4
+      with:
+        name: build
+        path: build
